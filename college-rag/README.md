@@ -298,6 +298,4 @@ If you encounter issues:
 - [ ] Launch with `streamlit run app.py`
 - [ ] Ask your first question!
 
----
 
-**Happy learning! 📚✨**
