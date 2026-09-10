@@ -291,7 +291,7 @@ If you encounter issues:
 3. Ensure Ollama is running (`ollama serve`)
 4. Check logs in the terminal
 
-## 🚀 Next Steps
+
 
 - [ ] Upload your college documents to `college_data/`
 - [ ] Run `python ingest.py` to process them
